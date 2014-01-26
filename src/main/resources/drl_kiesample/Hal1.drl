@@ -1,4 +1,4 @@
-package kiesample;
+package drl_kiesample;
 
 import org.kie.spring.beans.Person;
 
